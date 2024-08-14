@@ -13,7 +13,7 @@ The key objective is to assist users and businesses in making informed decisions
 - **Exploratory Data Analysis (EDA)**: Understanding data distributions, correlations, and key insights through visualization.
 - **Model Selection**: Implementing multiple models (Linear Regression, Decision Trees, Random Forest, etc.) and selecting the best-performing one.
 - **Hyperparameter Tuning**: Fine-tuning model parameters using Grid Search and Cross-Validation for optimal performance.
-- **Model Evaluation**: Assessing model accuracy with metrics like Mean Absolute Error (MAE) and R-squared.
+- **Model Evaluation**: Assessing model accuracy with metrics like Linear regression.
 - **Deployment**: Deploying the trained model as a web app for real-time price predictions.
 
 ## 📊 Dataset
