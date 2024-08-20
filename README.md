@@ -35,15 +35,12 @@ The dataset used in this project is sourced from [Dataset Source]. It includes c
 Once the application is up and running, users can input car details such as make, model, year, and mileage to get an estimated price. The web app is designed with a user-friendly interface to make the process seamless and intuitive.
 
 🔍 Results
-:Model Performance: Achieved an R-squared score of X.XX and a Mean Absolute Error of X,XXX, indicating a strong ability to predict second-hand car prices accurately.
+:Model Performance: Achieved an Linear Regression model, indicating a strong ability to predict second-hand car prices accurately.
 :Key Insights: Data analysis revealed significant factors influencing car prices, providing valuable insights for potential buyers and sellers.
 
 🤝 Contributing
 Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request. We appreciate your feedback and contributions.
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 🙌 Acknowledgements
-[Dataset Source]: Thanks to [Dataset Source] for providing the data.
-Tools & Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, [Seaborn](https://seaborn.pydata
+Tools & Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, [Seaborn](https://seaborn.pydata)
